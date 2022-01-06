@@ -3,7 +3,6 @@
 <h1>I'm Hemant Kumar Jayas</h1>
 <h3>I'm a passionate Full Stack Developer Specialized in MERN Stack from India.</h3>
 
-
 - 🔭 I’m currently working on **healthkart.com clone**
 - 🌱 I’m currently learning **react**
 - 💬 Ask me about **javascript**
