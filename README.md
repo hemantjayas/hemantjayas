@@ -1,5 +1,8 @@
 ### Hi there I am Hemant Jayas 👋
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvkagrawal" /> </p>
+
 - 🔭 I’m currently working on **healthkart.com clone**
 - 🌱 I’m currently learning **react**
 - 💬 Ask me about **javascript**
