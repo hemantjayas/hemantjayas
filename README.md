@@ -1,7 +1,8 @@
-### Hi there I am Hemant Jayas 👋
+### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Hemant Kumar Jayas</h1>
+<h3 align="center">I'm a passionate Full Stack Developer Specialized in MERN Stack from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantjayas&label=Profile%20views&color=0e75b6&style=flat" alt="hemantjayas" /> </p>
 
 - 🔭 I’m currently working on **healthkart.com clone**
 - 🌱 I’m currently learning **react**
