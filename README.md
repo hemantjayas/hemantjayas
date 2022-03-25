@@ -4,7 +4,7 @@
 <h3>I'm a passionate Full Stack Developer Specialized in MERN Stack from India.</h3>
 
 - 🔭 I’m currently working on **healthkart.com clone**
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently looking for full-Stack developer role in a product based company
 - 💬 Ask me about **javascript**
 - 📫 How to reach me: **hemantjayas03@gmail.com**
 - ⚡ Fun fact: I think I am a motivational speaker
